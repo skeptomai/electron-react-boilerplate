@@ -104,7 +104,7 @@ const createWindow = async () => {
   // Open urls in the user's browser
   mainWindow.webContents.setWindowOpenHandler(({ url }) => {
     shell.openExternal(url);
-    return { action: 'allow'};
+    return { action: 'allow' };
   });
 
   // Remove this if your app does not use auto updates

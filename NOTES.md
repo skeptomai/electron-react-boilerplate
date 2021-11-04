@@ -1,0 +1,5 @@
+[React Memory Router](https://mrsamczynski.medium.com/react-router-memoryrouter-a-how-to-guide-a496318bf981)
+[NPM vs yarn](https://www.whitesourcesoftware.com/free-developer-tools/blog/npm-vs-yarn-which-should-you-choose/)
+[Hot Module Replacement](https://webpack.js.org/guides/hot-module-replacement/#via-the-nodejs-api)
+[Native Modules](https://electron-react-boilerplate.js.org/docs/native-modules/)
+[Window Open / Renderer](https://www.electronjs.org/docs/latest/api/window-open)

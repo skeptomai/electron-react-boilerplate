@@ -3,3 +3,6 @@
 [Hot Module Replacement](https://webpack.js.org/guides/hot-module-replacement/#via-the-nodejs-api)
 [Native Modules](https://electron-react-boilerplate.js.org/docs/native-modules/)
 [Window Open / Renderer](https://www.electronjs.org/docs/latest/api/window-open)
+[asar format tool](https://github.com/electron/asar)
+[@ in import](https://stackoverflow.com/questions/42711175/what-does-the-symbol-do-in-javascript-imports)
+[React Strict Mode](https://reactjs.org/docs/strict-mode.html)
